@@ -1,0 +1,2 @@
+Ceci est un test du programme "file_splitter.py".
+J'espère qu'il fonctionnera et me permettra de séparer le fichier pour le reconstituer plus tard avec l'autre script appelé "file_joiner.py".
